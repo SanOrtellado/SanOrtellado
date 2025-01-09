@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img alt="GIF" height="100px" width="100%" src="https://github.com/user-attachments/assets/37d264a8-889b-4538-8e89-72a21c136115" />
+  <img alt="GIF" height="300px" width="60%" src="https://github.com/user-attachments/assets/37d264a8-889b-4538-8e89-72a21c136115" />
 </div>
 
 ## Licenciada en Ciencias de Datos en formación y Analista de Datos
