@@ -7,13 +7,8 @@
 </div>
 
 
-
-<div align="center">
-  <img alt="GIF" height="300px" width="60%" src="https://https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80" />
-</div>
-
 ## Licenciada en Ciencias de Datos en formación y Analista de Datos
--👋 ¡Hola! Soy Sandra, pero me dicen SAN.
+-👋 ¡Hola! Soy Sandra, pero me dicen San.
 
 -👀 Me apasionan la ciencia de datos, el análisis de datos y las soluciones impulsadas por la tecnología.
 
