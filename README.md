@@ -8,11 +8,6 @@
 
 ## Licenciada en Ciencias de Datos en formación y Analista de Datos.
 
-🤓 Revelo un dato curioso: Hay una palabra que me gusta mucho y tiene una resonancia especial para mi y es **Serendipia**.
-Es un término que se refiere a un descubrimiento o hallazgo afortunado e inesperado que ocurre de manera accidental o casual.
-
-🌟 Lo cual se relaciona con la Ciencia de Datos, la **serendipia** juega un papel esencial. Al analizar grandes volúmenes de datos, a menudo encontramos patrones, tendencias e insights que no estábamos buscando inicialmente. Estos descubrimientos inesperados pueden llevar a innovaciones y decisiones estratégicas que de otra manera no habríamos considerado.
-
 -👀 Me apasionan la ciencia de datos, el análisis de datos y las soluciones impulsadas por la tecnología.
 
 -🌱 Actualmente, estoy aprendiendo técnicas avanzadas de análisis y visualización de datos.
