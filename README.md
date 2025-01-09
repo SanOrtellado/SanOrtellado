@@ -1,5 +1,7 @@
-![banner nuevo de github](https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80)
 
+<div align="center">
+  <img alt="GIF" height="230px" width="90%" src="https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80"/>
+</div>
 
 #  ¡Bienvenidos!👋Soy Sandra, pero me dicen San.🦋
 
