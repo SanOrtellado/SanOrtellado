@@ -1,8 +1,8 @@
 ![banner nuevo de github](https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80)
 
 
-# 🦋
-¡Hola soy Sandra!
+# ¡Hola soy Sandra!🦋
+
 
 ## Licenciada en Ciencias de Datos en formación y Analista de Datos
 -👋 ¡Hola! Soy Sandra, pero me dicen San.
