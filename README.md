@@ -1,6 +1,8 @@
+
+
 # ¡Hola soy Sandra!
 <div align="center">
-    <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+    <img width="30px" src="https://github.com/user-attachments/assets/a7a081a6-e510-4f16-9425-c06c4064dab5" />
 </div>
 
 
