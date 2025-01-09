@@ -1,7 +1,7 @@
 ![banner nuevo de github](https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80)
 
 
-# ¡Hola soy Sandra!🦋
+#  ¡Hola soy Sandra!🦋
 
 
 ## Licenciada en Ciencias de Datos en formación y Analista de Datos
@@ -13,8 +13,10 @@
 
 -💞️ Estoy interesada en colaborar en proyectos innovadores relacionados con la ciencia de datos, la inteligencia artificial y la inteligencia empresarial.
 
--📫 Puedes contactarme a través de ortesancode@gmail.com o conectarte conmigo en LinkedIn: Sandra Ortellado.
-
+-📫 Puedes contactarme 
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SanCoding)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ortesancoe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-ortellado)
 ---
 
 ### Lenguajes y Herramientas 🛠 
