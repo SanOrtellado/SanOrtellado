@@ -3,16 +3,25 @@
   <img alt="GIF" height="230px" width="90%" src="https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80"/>
 </div>
 
-#  ¡Bienvenidos!👋Soy Sandra, pero me dicen San.🦋
+      
+     
+     
+  #  🌟 ¡Bienvenidos a mi perfil! 🌟 👋 Soy San 🦋
 
 
-## Licenciada en Ciencias de Datos en formación y Analista de Datos.
+  ### Licenciada en Ciencias de Datos en formación, Analista de Datos y Técnica en Programación.
 
--👀 Me apasionan la ciencia de datos, el análisis de datos y las soluciones impulsadas por la tecnología.
+  
+👀 Me apasiona la ciencia de datos, el análisis de datos, la programación y resolver problemas a través de soluciones tecnológicas innovadoras.
 
--🌱 Actualmente, estoy aprendiendo técnicas avanzadas de análisis y visualización de datos.
+💻 Tengo experiencia en lenguajes de programación, en Desarrollo Frontend y en herramientas de Análisis de Datos. 
 
--💞️ Estoy interesada en colaborar en proyectos innovadores relacionados con la ciencia de datos, la inteligencia artificial y la inteligencia empresarial.
+🌱 Actualmente, estoy profundizando en técnicas avanzadas de análisis, visualización de datos y desarrollo de modelos predictivos utilizando herramientas de inteligencia artificial y aprendizaje automático.
+
+🤝 Estoy interesada en colaborar en proyectos que combinen ciencia de datos, programación e innovación tecnológica, especialmente en áreas como inteligencia empresarial, automatización y desarrollo de aplicaciones basadas en datos.
+
+🚀 Disfruto trabajar en equipo para transformar ideas en soluciones que impacten positivamente en la toma de decisiones.
+¡Trabajemos en equipo! 😊
 
 -📫
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SanCoding)
