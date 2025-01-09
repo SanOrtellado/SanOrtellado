@@ -1,14 +1,15 @@
+![banner nuevo de github](https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80)
 
 
 # ¡Hola soy Sandra!
 <div align="center">
-    <img width="30px" src="https://github.com/user-attachments/assets/a7a081a6-e510-4f16-9425-c06c4064dab5" />
+    <img width="30px" src="https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80" />
 </div>
 
 
 
 <div align="center">
-  <img alt="GIF" height="300px" width="60%" src="https://github.com/user-attachments/assets/37d264a8-889b-4538-8e89-72a21c136115" />
+  <img alt="GIF" height="300px" width="60%" src="https://https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80" />
 </div>
 
 ## Licenciada en Ciencias de Datos en formación y Analista de Datos
