@@ -1,11 +1,15 @@
 ![banner nuevo de github](https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80)
 
 
-#  ¡Bienvenidos!🦋
+#  ¡Bienvenidos! -👋Soy Sandra, pero me dicen San.🦋
 
 
-## Licenciada en Ciencias de Datos en formación y Analista de Datos
--👋 ¡Hola! Soy Sandra, pero me dicen San.
+## Licenciada en Ciencias de Datos en formación y Analista de Datos.
+
+🤓 Revelo un dato curioso: Hay una palabra que me gusta mucho y tiene una resonancia especial para mi y es **Serendipia**.
+Es un término que se refiere a un descubrimiento o hallazgo afortunado e inesperado que ocurre de manera accidental o casual.
+
+🌟 Lo cual se relaciona con la Ciencia de Datos, la **serendipia** juega un papel esencial. Al analizar grandes volúmenes de datos, a menudo encontramos patrones, tendencias e insights que no estábamos buscando inicialmente. Estos descubrimientos inesperados pueden llevar a innovaciones y decisiones estratégicas que de otra manera no habríamos considerado.
 
 -👀 Me apasionan la ciencia de datos, el análisis de datos y las soluciones impulsadas por la tecnología.
 
@@ -69,10 +73,15 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-
 <br/>
-
 ---
+### Formación 👩‍🎓
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+
 
 <br/>
 
