@@ -1,4 +1,5 @@
-![Banner GitHub](https://github.com/user-attachments/assets/d28d18fe-59a6-4e2c-8c2d-acbcef58bc32)
+![Banner Para LinkedIn Profesional Analista En Ciberseguridad Moderno Azul Y Blanco](https://github.com/user-attachments/assets/f6d748db-0dc2-45f0-94b1-91bb288b6d49)
+
 
 
 
