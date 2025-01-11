@@ -5,7 +5,9 @@
 
       
      
-  #  🌟 ¡Bienvenidos a mi perfil! 🌟 👋 Soy San 🦋
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌟¡Bienvenidos+a+mi+perfil! 🌟)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Soy+San+🦋)](https://git.io/typing-svg)
+
  
 
   ### Licenciada en Ciencias de Datos en formación, Analista de Datos y Técnica en Programación.
@@ -110,7 +112,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Suma+una+⭐+a+mis+proyectos📦)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gracias+por+tu+visita😊;Hasta+pronto,+San🙋‍♀️)](https://git.io/typing-svg)
-
 
 
 
