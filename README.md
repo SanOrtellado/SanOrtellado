@@ -1,13 +1,12 @@
 
 <div align="center">
-  <img alt="GIF" height="230px" width="90%" src="https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80"/>
+  <img alt="GIF" height="200px" width="90%" src="https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80"/>
 </div>
 
       
      
-     
   #  🌟 ¡Bienvenidos a mi perfil! 🌟 👋 Soy San 🦋
-
+ 
 
   ### Licenciada en Ciencias de Datos en formación, Analista de Datos y Técnica en Programación.
 
