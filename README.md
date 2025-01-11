@@ -22,7 +22,7 @@
 🚀 Disfruto trabajar en equipo para transformar ideas en soluciones que impacten positivamente en la toma de decisiones.
 ¡Trabajemos en equipo! 😊
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pueden+contactarme📲)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Podés+contactarme📲)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SanCoding)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ortesancode@gmail.com)
