@@ -22,13 +22,14 @@
 🚀 Disfruto trabajar en equipo para transformar ideas en soluciones que impacten positivamente en la toma de decisiones.
 ¡Trabajemos en equipo! 😊
 
--📫
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pueden+contactarme📲)](https://git.io/typing-svg)
+
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SanCoding)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ortesancode@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-ortellado)
 ---
 
-### Lenguajes y Herramientas 🛠 
+###  🛠 Lenguajes y Herramientas  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -82,23 +83,33 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 <br/>
-### Formación 👩‍🎓
+
+### 👩‍🎓Formación  
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
-<h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SandraOrtellado&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+📊 Estadísticas de GitHub
+<a href="https://github.com/SanOrtellado"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SanOrtellado&theme=react" alt="Estadísticas de GitHub de San Ortellado" /> </a>
 
-    
-</div>
 
 <br/>
+          
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidxs+a+mi+perfil👋;Explora+mis+proyectos📦)](https://git.io/typing-svg)
+
+### 🌟Repositorios Destacados
+
+### [![Encuesta Cervecería](https://img.shields.io/badge/Repositorio-Encuesta_Cerveceria-blue?style=for-the-badge)](https://github.com/SanOrtellado/Encuesta_Cerveceria/tree/master) 
+### [![Transacciones Productos](https://img.shields.io/badge/Repositorio-Transacciones_Productos-green?style=for-the-badge)](https://github.com/SanOrtellado/Transacciones_Productos) 
+### [![Alura Google Analytics](https://img.shields.io/badge/Repositorio-Alura_GoogleAnalytics-red?style=for-the-badge)](https://github.com/SanOrtellado/Alura_GoogleAnalytics)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Suma+una+⭐+a+mis+proyectos📦)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gracias+por+tu+visita😊;Hasta+pronto,San🙋‍♀️)](https://git.io/typing-svg)
 
 
 
