@@ -109,7 +109,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Suma+una+⭐+a+mis+proyectos📦)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gracias+por+tu+visita😊;Hasta+pronto,San🙋‍♀️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gracias+por+tu+visita😊;Hasta+pronto,+San🙋‍♀️)](https://git.io/typing-svg)
 
 
 
