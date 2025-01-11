@@ -1,7 +1,6 @@
+![Banner GitHub](https://github.com/user-attachments/assets/d28d18fe-59a6-4e2c-8c2d-acbcef58bc32)
 
-<div align="center">
-  <img alt="GIF" height="200px" width="90%" src="https://github.com/user-attachments/assets/9871bc83-88b9-40dd-9d6c-d40a6b0dac80"/>
-</div>
+
 
       
      
