@@ -1,9 +1,6 @@
 ![Banner Para LinkedIn Profesional Analista En Ciberseguridad Moderno Azul Y Blanco](https://github.com/user-attachments/assets/f6d748db-0dc2-45f0-94b1-91bb288b6d49)
 
 
-
-
-      
      
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌟¡Bienvenidos+a+mi+perfil! 🌟)](https://git.io/typing-svg)
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Soy+San+🦋)](https://git.io/typing-svg)
@@ -23,6 +20,9 @@
 
 🚀 Disfruto trabajar en equipo para transformar ideas en soluciones que impacten positivamente en la toma de decisiones.
 ¡Trabajemos en equipo! 😊
+
+[![icons8-abrir-currículum](https://github.com/user-attachments/assets/f68a9e63-005a-487b-b93c-312a9be5aca1)](https://www.canva.com/design/DAGb_K9PWoE/CZ6mlcYKEKXRWcl2-Cpieg/view?utm_content=DAGb_K9PWoE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he79a2dd14e)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Podés+contactarme📲)](https://git.io/typing-svg)
 
