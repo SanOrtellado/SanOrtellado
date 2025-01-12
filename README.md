@@ -19,9 +19,8 @@
 🤝 Estoy interesada en colaborar en proyectos que combinen ciencia de datos, programación e innovación tecnológica, especialmente en áreas como inteligencia empresarial, automatización y desarrollo de aplicaciones basadas en datos.
 
 🚀 Disfruto trabajar en equipo para transformar ideas en soluciones que impacten positivamente en la toma de decisiones.
+
 ¡Trabajemos en equipo! 😊
-📂
-Poder ver mi CV ➡ [![icons8-abrir-currículum](https://github.com/user-attachments/assets/f68a9e63-005a-487b-b93c-312a9be5aca1)](https://www.canva.com/design/DAGb_K9PWoE/CZ6mlcYKEKXRWcl2-Cpieg/view?utm_content=DAGb_K9PWoE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he79a2dd14e)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Podés+contactarme📲)](https://git.io/typing-svg)
