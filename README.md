@@ -20,8 +20,8 @@
 
 🚀 Disfruto trabajar en equipo para transformar ideas en soluciones que impacten positivamente en la toma de decisiones.
 ¡Trabajemos en equipo! 😊
-
-[![icons8-abrir-currículum](https://github.com/user-attachments/assets/f68a9e63-005a-487b-b93c-312a9be5aca1)](https://www.canva.com/design/DAGb_K9PWoE/CZ6mlcYKEKXRWcl2-Cpieg/view?utm_content=DAGb_K9PWoE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he79a2dd14e)
+📂
+Poder ver mi CV ➡ [![icons8-abrir-currículum](https://github.com/user-attachments/assets/f68a9e63-005a-487b-b93c-312a9be5aca1)](https://www.canva.com/design/DAGb_K9PWoE/CZ6mlcYKEKXRWcl2-Cpieg/view?utm_content=DAGb_K9PWoE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he79a2dd14e)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Podés+contactarme📲)](https://git.io/typing-svg)
@@ -29,6 +29,8 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SanCoding)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ortesancode@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-ortellado)
+
+Ver mi CV ➡ [![icons8-abrir-currículum](https://github.com/user-attachments/assets/f68a9e63-005a-487b-b93c-312a9be5aca1)](https://www.canva.com/design/DAGb_K9PWoE/CZ6mlcYKEKXRWcl2-Cpieg/view?utm_content=DAGb_K9PWoE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he79a2dd14e)
 ---
 
 ###  🛠 Lenguajes y Herramientas  
