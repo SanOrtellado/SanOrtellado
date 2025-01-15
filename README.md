@@ -10,7 +10,7 @@
   ### Licenciada en Ciencias de Datos en formación, Analista de Datos y Técnica en Programación.
 
   
-👀 Me apasiona la ciencia de datos, el análisis de datos, la programación y resolver problemas a través de soluciones tecnológicas innovadoras.
+🕵 Me apasiona la ciencia de datos, el análisis de datos, la programación y resolver problemas a través de soluciones tecnológicas innovadoras.
 
 💻 Tengo experiencia en lenguajes de programación, en Desarrollo Frontend y en herramientas de Análisis de Datos. 
 
