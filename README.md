@@ -14,7 +14,7 @@
 
 💻 Tengo experiencia en lenguajes de programación, en Desarrollo Frontend y en herramientas de Análisis de Datos. 
 
-🌱 Actualmente, estoy profundizando en técnicas avanzadas de análisis, visualización de datos y desarrollo de modelos predictivos utilizando herramientas de inteligencia artificial y aprendizaje automático.
+📊  Actualmente, estoy profundizando en técnicas avanzadas de análisis, visualización de datos y desarrollo de modelos predictivos utilizando herramientas de inteligencia artificial y aprendizaje automático.
 
 🤝 Estoy interesada en colaborar en proyectos que combinen ciencia de datos, programación e innovación tecnológica, especialmente en áreas como inteligencia empresarial, automatización y desarrollo de aplicaciones basadas en datos.
 
