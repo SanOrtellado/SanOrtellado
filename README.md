@@ -110,7 +110,7 @@ Ver mi CV
 
 ### [![Encuesta Cervecería](https://img.shields.io/badge/Repositorio-Encuesta_Cerveceria-blue?style=for-the-badge)](https://github.com/SanOrtellado/Encuesta_Cerveceria/tree/master) 
 ###  [![Análisis Ventas Adidas](https://img.shields.io/badge/Repositorio-Análisis_Ventas_Adidas-green?style=for-the-badge)](https://github.com/SanOrtellado/Analisis_ventas_Adidas)
-### [![Alura Google Analytics](https://img.shields.io/badge/Repositorio-Alura_GoogleAnalytics-red?style=for-the-badge)](https://github.com/SanOrtellado/Alura_GoogleAnalytics)
+### [![Alura Google Analytics](https://img.shields.io/badge/Repositorio-Alura_Google Analytics-red?style=for-the-badge)](https://github.com/SanOrtellado/Alura_GoogleAnalytics)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Suma+una+⭐+a+mis+proyectos📦)](https://git.io/typing-svg)
 
