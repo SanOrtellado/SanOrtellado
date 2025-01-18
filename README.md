@@ -116,6 +116,7 @@ Ver mi CV
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gracias+por+tu+visita😊;Hasta+pronto,+San🙋‍♀️)](https://git.io/typing-svg)
 
-![image](https://github.com/user-attachments/assets/1f29dbb6-5c27-4140-ba15-9761d6540067) <img src="https://profile-counter.deno.dev/tu_clave/count.svg" alt="Visitas del Repositorio" />
+![image](https://github.com/user-attachments/assets/8eb8230f-dd87-47cb-b4bc-5d52e5c36cb6)
+<img src="https://profile-counter.deno.dev/tu_clave/count.svg" alt="Visitas del Repositorio" />
 
 
