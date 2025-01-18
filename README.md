@@ -23,11 +23,18 @@
 ¡Trabajemos en equipo! 😊
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Podés+contactarme📲)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Podés+contactarme📲)](https://git.io/typing-svg)   
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SanCoding)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ortesancode@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-ortellado)
+
+### ESCUCHA 🎧
+
+
+[![spotify logo](https://github.com/user-attachments/assets/1e1948c2-e92f-49e0-8609-77373249176e)](https://open.spotify.com/playlist/2uSFpiKydtj606BItZjiWk?utm_source=generator)
+
+
 
  💡
 Ver mi CV  
@@ -117,6 +124,15 @@ Ver mi CV
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Suma+una+⭐+a+mis+proyectos📦)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gracias+por+tu+visita😊;Hasta+pronto,+San🙋‍♀️)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/8eb8230f-dd87-47cb-b4bc-5d52e5c36cb6)
 <img src="https://profile-counter.deno.dev/tu_clave/count.svg" alt="Visitas del Repositorio" />
