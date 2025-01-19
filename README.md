@@ -132,6 +132,10 @@ Ver mi CV
 
 
 
+<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+<br><strong>– Elon Musk</strong></blockquote>
+
+
 
 
 ![image](https://github.com/user-attachments/assets/8eb8230f-dd87-47cb-b4bc-5d52e5c36cb6)
