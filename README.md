@@ -1,4 +1,8 @@
-![Banner Para LinkedIn Profesional Analista En Ciberseguridad Moderno Azul Y Blanco](https://github.com/user-attachments/assets/f6d748db-0dc2-45f0-94b1-91bb288b6d49)
+
+
+https://github.com/user-attachments/assets/c33b5032-4922-4113-9549-020555b8f236
+
+
 
 
      
