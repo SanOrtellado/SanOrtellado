@@ -120,7 +120,7 @@ Ver mi CV
 
 ### 🌟Proyectos Destacados
 
-### [![Encuesta Cervecería](https://img.shields.io/badge/Repositorio-Encuesta_Cerveceria-blue?style=for-the-badge)](https://github.com/SanOrtellado/Encuesta_Cerveceria/tree/master) 
+### [![Frubis - Lead Segmentation](https://img.shields.io/badge/Repositorio-Frubis_Lead_Segmentation-blue?style=for-the-badge)](https://github.com/SanOrtellado/Frubis-Lead-Segmentation-Clustering---R)
 ###  [![Análisis Ventas Adidas](https://img.shields.io/badge/Repositorio-Análisis_Ventas_Adidas-green?style=for-the-badge)](https://github.com/SanOrtellado/Analisis_ventas_Adidas)
 ### [![Alura Google Analytics](https://img.shields.io/badge/Repositorio-Alura_GoogleAnalytics-red?style=for-the-badge)](https://github.com/SanOrtellado/Alura_GoogleAnalytics)
 ### [![Netflix_DBMySQL](https://img.shields.io/badge/Repositorio-Netflix_DBMySQL-blue?style=for-the-badge)](https://github.com/SanOrtellado/Netflix_DBMySQL)
