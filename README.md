@@ -40,10 +40,6 @@
 [![spotify logo](https://github.com/user-attachments/assets/1e1948c2-e92f-49e0-8609-77373249176e)](https://open.spotify.com/playlist/2uSFpiKydtj606BItZjiWk?utm_source=generator)
 
 
-
- 💡
-Ver mi CV  
-                                  [![icons8-abrir-currículum](https://github.com/user-attachments/assets/f68a9e63-005a-487b-b93c-312a9be5aca1)](https://www.canva.com/design/DAGb_K9PWoE/CZ6mlcYKEKXRWcl2-Cpieg/view?utm_content=DAGb_K9PWoE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he79a2dd14e)
 ---
 
 ###  🛠 Lenguajes y Herramientas  
